@@ -1,4 +1,3 @@
-
 let userSelectedDate = null;
 let timerId = null;
 
